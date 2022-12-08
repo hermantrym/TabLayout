@@ -7,8 +7,6 @@ Tabs are used in some Android apps, allowing developers to group many actions (o
  <img alt="Fragment 1" src="screenshot_0.png" height="30%" width="30%">
 </a> &nbsp;&nbsp; <a href="#" target="_blank">
  <img alt="Fragment 2" src="screenshot_1.png" height="30%" width="30%">
-</a>
-<br>
-<a href="#" target="_blank">
+</a> &nbsp;&nbsp; <a href="#" target="_blank">
  <img alt="Fragment 3" src="screenshot_2.png" height="30%" width="30%">
 </a>
